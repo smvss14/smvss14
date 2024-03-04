@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smvss14
-- 👀 I’m interested in JAVA, PYTHON
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested in C#, JAVA, AngularJS 
+- 🌱 I’m currently learning C#, JAVA
 - 💞️ I’m looking to collaborate on building something fun
 - 📫 How to reach me = smvss14@gmail.com
 
